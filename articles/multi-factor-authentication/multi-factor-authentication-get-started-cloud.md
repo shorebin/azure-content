@@ -157,3 +157,4 @@ Once you have enabled your users, send an email telling them that they need to p
 
 ## Next Steps
 Now that you have setup multi-factor authentication in the cloud, you can configure and setup your deployment.  See [Configuring Azure Multi-Factor Authentication.](multi-factor-authentication-whats-next.md)
+##
